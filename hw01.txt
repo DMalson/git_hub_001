@@ -1,3 +1,6 @@
 print ("Yes, Hello world");
 print ("Yes, Hello to everybody");
 print("Yes, To every every body!!");
+print("Yes, How are you?");
+print("Yes, where are you from?");
+
