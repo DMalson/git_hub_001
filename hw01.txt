@@ -1,3 +1,5 @@
 print ("Hello world");
 print ("Hello to everybody");
 print("To every every body!!");
+print("How are you?");
+print("where are you from?");
