@@ -1,3 +1,3 @@
-print ("Hello world");
-print ("Hello to everybody");
-print("To every every body!!");
+print ("Yes, Hello world");
+print ("Yes, Hello to everybody");
+print("Yes, To every every body!!");
